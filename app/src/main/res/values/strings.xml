@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">locationdemo</string>
+    <string name="warning_txt">Permission is mandatory to update the UI</string>
+    <string name="setting">Settings</string>
+
+
+</resources>
